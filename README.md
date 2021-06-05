@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kritigoma
-- 👀 I’m interested in coding and data science.
+- 👀 I’m interested in Data Science and Programming.
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Science and ML.
 - 📫 How to reach me kritigoma@pm.me
